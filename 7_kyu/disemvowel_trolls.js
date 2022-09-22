@@ -12,6 +12,6 @@
 // Link: https://www.codewars.com/kata/52fba66badcd10859f00097e/train/javascript
 
 
-disemvowel = str => str.replace(/[aeuio]/gi, '');
+disemvowel = str => str.replace(/aeuio/gi, '');
 
-// console.log(disemvowel("his website is for losers LOL!"))
+console.log(disemvowel("his website is for losers LOL!"))
