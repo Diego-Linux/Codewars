@@ -6,7 +6,7 @@
 // Link: https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/javascript
 
 count = (a, b = {}) => {
-     a.split('').forEach(x => b[x] = b[x] + 1 || 1)
+     [...a].forEach(x => b[x] = b[x]++ || 1)
      return b;
 }
 
