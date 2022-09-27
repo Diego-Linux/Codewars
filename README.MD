@@ -3,8 +3,8 @@
 
  ## About Codewars: 
 
-### Codewars is an educational community for computer programming. On the platform, software developers train in programming challenges known as kata.
+#### Codewars is an educational community for computer programming. On the platform, software developers train in programming challenges known as kata.
 
 ## Sobre o Codewars:
 
-### Codewars é uma comunidade educacional para programação de computadores. Na plataforma, os desenvolvedores de software treinam nos desafios de programação conhecidos como kata.
+#### Codewars é uma comunidade educacional para programação de computadores. Na plataforma, os desenvolvedores de software treinam nos desafios de programação conhecidos como kata.
