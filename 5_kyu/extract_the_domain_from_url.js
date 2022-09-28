@@ -6,4 +6,4 @@
 
 // Link: https://www.codewars.com/kata/514a024011ea4fb54200004b/train/javascript
 
-domainName=(url)=>url.replace(/.+\/\/|www.|\..+/g, '')
+domainName=url=>url.replace(/.+\/\/|www.|\..+/g, '')
