@@ -1,5 +1,11 @@
 ![cw](https://user-images.githubusercontent.com/60199339/192565416-0769af23-525d-4934-b3a3-788ebd18bbc7.png)
 
+## My Codewars Nickname:  *Chaser_7*
+
+## Profile: 
+
+#### https://www.codewars.com/users/Chaser_7
+
 
  ## About Codewars: 
 
